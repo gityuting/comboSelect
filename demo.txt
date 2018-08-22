@@ -1,0 +1,4 @@
+<link rel="stylesheet" href="/static/css/combo.select.css">
+<script src="/static/produce/js/jquery.combo.select.js"></script>
+
+  $("#selectId").comboSelect();
